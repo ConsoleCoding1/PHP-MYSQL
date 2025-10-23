@@ -1,15 +1,8 @@
 # 🎓 School Management System (PHP + Tailwind CSS)
 
 A simple and efficient **School Management System** built using **PHP**, **MySQL**, and **Tailwind CSS**.  
-This project helps manage students, teachers, and class data in an organized, modern, and responsive interface — ideal for learning **backend + UI design**.
+This project helps manage student, teacher, and class data in an organized, modern, and responsive interface — ideal for learning **backend and UI design**.
 
----
-
-## 🖼️ Preview
-
-![Students Page Screenshot](d6b6bb65-0eb7-490a-b1ca-88550b138aef.png)
-
-> A clean student management interface built with PHP and Tailwind CSS.
 
 ---
 
